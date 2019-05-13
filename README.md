@@ -22,7 +22,7 @@
 - [被分配了工作任务应该做什么](https://github.com/ustcilxin/BrainScienceTeamOPA/wiki/%E8%A2%AB%E5%88%86%E9%85%8D%E4%BA%86%E5%B7%A5%E4%BD%9C%E4%BB%BB%E5%8A%A1%E5%BA%94%E8%AF%A5%E5%81%9A%E4%BB%80%E4%B9%88)
 - [如何主持一个会议](https://github.com/ustcilxin/BrainScienceTeamOPA/wiki/%E5%A6%82%E4%BD%95%E4%B8%BB%E6%8C%81%E4%B8%80%E4%B8%AA%E4%BC%9A%E8%AE%AE)
 - 如何参加别人主持的会议
-- 如何汇报工作
+- [如何汇报工作](https://github.com/ustcilxin/BrainScienceTeamOPA/wiki/%E5%A6%82%E4%BD%95%E6%B1%87%E6%8A%A5%E5%B7%A5%E4%BD%9C)
 - 项目的负责人该做什么
 - [与公司内其他团队合作时的正确姿势](https://github.com/ustcilxin/BrainScienceTeamOPA/wiki/%E4%B8%8E%E5%85%AC%E5%8F%B8%E5%86%85%E5%85%B6%E4%BB%96%E5%9B%A2%E9%98%9F%E5%90%88%E4%BD%9C%E6%97%B6%E7%9A%84%E6%AD%A3%E7%A1%AE%E5%A7%BF%E5%8A%BF)
 - [如何请假](https://github.com/ustcilxin/BrainScienceTeamOPA/wiki/%E5%A6%82%E4%BD%95%E8%AF%B7%E5%81%87)
