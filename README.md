@@ -29,6 +29,7 @@
 - [与公司内其他团队合作时的正确姿势](https://github.com/ustcilxin/BrainScienceTeamOPA/wiki/%E4%B8%8E%E5%85%AC%E5%8F%B8%E5%86%85%E5%85%B6%E4%BB%96%E5%9B%A2%E9%98%9F%E5%90%88%E4%BD%9C%E6%97%B6%E7%9A%84%E6%AD%A3%E7%A1%AE%E5%A7%BF%E5%8A%BF)
 - [如何请假](https://github.com/ustcilxin/BrainScienceTeamOPA/wiki/%E5%A6%82%E4%BD%95%E8%AF%B7%E5%81%87)
 ### 个人与团队学习
+- 如何选择学习内容（郭）
 - 如何学习新知识
 - 如何阅读论文
 - 如何分享工作以及出差参会等收获
