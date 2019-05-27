@@ -12,6 +12,7 @@
 - 如何面试一个实习生
 ### 工作安排
 - 全职员工的试用期该如何度过
+- 全职员工试用期考核要求（丁）
 - 实习生的工作该如何安排
 ## 在组
 ### 岗位与职责界定
@@ -19,6 +20,7 @@
 - 一张图看懂每个岗位的能力要求
 - 导师和虚线上级分别有什么权利和义务
 ### 日常工作的规范
+- 对外交流沟通的方式和基本要求（丁）
 - [被分配了工作任务应该做什么](https://github.com/ustcilxin/BrainScienceTeamOPA/wiki/%E8%A2%AB%E5%88%86%E9%85%8D%E4%BA%86%E5%B7%A5%E4%BD%9C%E4%BB%BB%E5%8A%A1%E5%BA%94%E8%AF%A5%E5%81%9A%E4%BB%80%E4%B9%88)
 - [如何主持一个会议](https://github.com/ustcilxin/BrainScienceTeamOPA/wiki/%E5%A6%82%E4%BD%95%E4%B8%BB%E6%8C%81%E4%B8%80%E4%B8%AA%E4%BC%9A%E8%AE%AE)
 - 如何参加别人主持的会议
